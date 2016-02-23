@@ -56,4 +56,7 @@ table {
 	Begin custom CSS for Hydroponics Control Panel
 ---------------------------------------------------------*/
 
-/*Fonts*/
+/*background*/
+body {
+	background-color: #BF186B;
+}
