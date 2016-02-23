@@ -62,5 +62,6 @@ body {
 }
 
 #TopBanner {
-	fort-size: 15em;
+	font-size: 5em;
+	text-align: center;
 }
