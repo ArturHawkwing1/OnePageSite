@@ -56,12 +56,22 @@ table {
 	Begin custom CSS for Hydroponics Control Panel
 ---------------------------------------------------------*/
 
+/*fonts*/
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 1000;
+  src: local('Tangerine Bold'), local('Tangerine-Bold'), url(https://fonts.gstatic.com/s/fredokaone/v4/SL0aFUFfkFMMdariYQ3_YY4P5ICox8Kq3LLUNMylGO4.woff2) format('woff2'); format('woff2');
+}
+
 /*background*/
 body {
 	background-color: #9C6C24;
 }
 
+/*text*/
 #TopBanner {
 	font-size: 5em;
 	text-align: center;
+	font-family: Tangerine;
 }
