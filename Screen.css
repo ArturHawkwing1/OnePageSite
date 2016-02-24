@@ -75,3 +75,52 @@ body {
 	text-align: center;
 	font-family: Tangerine;
 }
+
+/*CSS detailing the manipulation of the displayed water level.*/
+
+.WaterLevel {
+	color: brown;
+}
+
+#WL100 {
+	
+}
+
+#WL90 {
+	
+}
+
+#WL80 {
+	
+}
+
+#WL70 {
+	
+}
+
+#WL60 {
+	
+}
+
+#WL50 {
+	
+}
+#WL40 {
+	
+}
+
+#WL30 {
+	
+}
+
+#WL20 {
+	
+}
+
+#WL10 {
+	
+}
+
+#WL0 {
+	
+}
