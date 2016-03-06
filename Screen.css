@@ -278,6 +278,10 @@ body {
 	background-color: lime;
 }
 
+#slider {
+	width: 10em;
+}
+
 #banner {
 	color: black;
 	text-align: center;
